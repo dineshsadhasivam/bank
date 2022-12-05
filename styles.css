@@ -1,0 +1,90 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.img {
+  height: 17rem;
+  width: 17rem;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+  border: 0.7rem solid var(--yellow);
+}
+.deposit {
+  
+  border-radius: 20px;
+  color: rgb(234, 241, 243);
+  font-size: 2em;
+  margin-top: 0.65em;
+  margin-bottom: 0.65em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+
+  font-family: "Times New Roman", serif;
+}
+.table1 {
+  background-color: rgb(140, 168, 183);
+  border-radius: 19px;
+}
+.balance {
+  color: #ec2a18;
+  text-align: center;
+  padding-right: 800px;
+  /* font-size: 5em; */
+  font-weight: bold;
+  font-family: "Times New Roman", serif;
+}
+.dep {
+  color: #0c0302;
+  text-align: center;
+  padding-right: 850px;
+  /* font-size: 5em; */
+  font-weight: bold;
+  font-family: "Times New Roman", serif;
+}
+.input {
+  background-color: #38866d;
+  border: none;
+  color: rgb(194, 221, 39);
+  padding: 7px 7px;
+  margin: 4px 2px;
+  border-radius: 10px;
+}
+.btn {
+  background:  rgb(43, 14, 205);
+  border-color: rgb(39, 234, 245);
+  font-family: "Times New Roman", serif;
+  font-size: 1.25em;
+  border-radius: 8px;
+  padding: 8px;
+  position: absolute;
+  font-weight: bold;
+  left: 600px;
+}
+.head {
+  font-family: "Times New Roman", serif;
+  background-color: "#160af5";
+}
+.tag {
+  color: rgb(233, 240, 236);
+  font-family: "Times New Roman", serif;
+  font-size: 2em;
+}
+.label {
+  float: left;
+  width: 25%;
+  margin-top: 6px;
+}
+.form-label {
+  font-family: "Times New Roman", serif;
+  color: #c6dc21;
+  font-weight: bold;
+  font-size: 1.65em;
+}
+.form-control {
+  font-family: "Times New Roman", serif;
+  color: #0ff5e9;
+  font-size: 1.5em;
+}
